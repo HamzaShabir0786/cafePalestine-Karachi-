@@ -3,7 +3,7 @@ import { restaurant } from "@/lib/menu";
 
 export default function Hero() {
   return (
-    <section id="top" className="relative">
+    <section id="top" className="relative ">
       <div className="mx-auto max-w-6xl px-5 pb-16 pt-14 sm:pb-20 sm:pt-20">
         <p className="font-body text-xs font-semibold uppercase tracking-[0.25em] text-palestine">
           Scheme 33 · Ayoub Goth · Karachi
@@ -46,6 +46,7 @@ export default function Hero() {
         </div>
       </div>
       <TatreezBand variant="sand" />
+      
     </section>
   );
 }

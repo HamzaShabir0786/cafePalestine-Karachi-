@@ -64,7 +64,7 @@ export const restaurant = {
   tagline: "Karachi flavour, served with solidarity",
   address: "Scheme 33, near Ayoub Goth, Karachi, Pakistan",
   hours: "Open daily · 12:00 PM – 12:00 AM",
-  whatsappDisplay: "0319 3245070",
-  whatsappNumber: "923193245070",
+  whatsappDisplay: "0318323446070",
+  whatsappNumber: "03183246070",
   mapsQuery: "Scheme 33 near Ayoub Goth Karachi",
 };
